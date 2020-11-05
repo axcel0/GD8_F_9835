@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">gd8_f_9835</string>
+    <string name="guided_web_api">GUIDED WEB API</string>
+    <string name="selamat_datang_di_guided_modul_8_web_api_retrofit">Selamat Datang di Guided Modul 8 WEB API Retrofit</string>
+    <string name="create_user">Create User</string>
+    <string name="show_list_user">Show List User</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="prodi">Prodi</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="cancel">CANCEL</string>
+    <string name="create">CREATE</string>
+    <string name="detail_user">Detail User</string>
+</resources>
